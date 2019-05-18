@@ -52,11 +52,10 @@ header {
     header .header .header-right {
       float: right;
       padding-top: 45px;
-      background-color: #fc9551;
       padding: 3% 2% 2%; }
       header .header .header-right .telephone {
         text-decoration: none;
-        color: #005b97;
+        color: #000d16;
         font-size: 130%;
         font-family: "roboto", sans-serif;
         font-weight: bold;
@@ -491,9 +490,6 @@ footer {
   .copyright {
     padding: 1.5%; } }
 @media only screen and (min-width: 64em) {
-  .header-right {
-    box-shadow: 3px 6px 6px #003366; }
-
   .topnav {
     overflow: hidden;
     background-color: #e9e9e9;
