@@ -6,13 +6,13 @@ include '_top.php';
 <div class="agents" style="max-width: 1200px; margin: 0 auto;">
 
  <div class="agentHeader">   
-<h1>Agent - Joe Schmoe</h1>
+<h1>Agent - Susan Williams</h1>
 </div>
 
 <div class="agentImg">
 <figure>
-  <img src="img/agentSusan.jpeg" alt="Agent Jay Willardson">
-  <figcaption>Contact Joe Schmoe to book a cruise.</figcaption>
+  <img src="img/agentSusan.jpeg" alt="Agent Susan Williams">
+  <figcaption>Contact Susan Williams to book a cruise.</figcaption>
 </figure>
 </div>
 
@@ -43,4 +43,4 @@ include '_top.php';
 
 </div>
 </div>
-<?php include '_bot.php' ?>
+<?php include '_bottom.php' ?>

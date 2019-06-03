@@ -26,8 +26,8 @@
 			</div>
 		</div>
 	</header><!-- NAVIGATION -->
-	<div class="navwrap">
-		<div class="topnav" id="myTopnav">
+	<div class="navwrap clearfix">
+		<div class="topnav clearfix" id="myTopnav">
 			<?php $page=$_REQUEST['page']; ?><a href="index.php?page=home">HOME</a> <a href="cruises.php?page=cruises">CRUISES</a> <a href="book.php?page=book">BOOK</a>
 			<div class="dropdown">
 				<button class="dropbtn">AGENTS &nbsp;&#9662;</button>
