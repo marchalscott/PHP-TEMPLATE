@@ -180,17 +180,17 @@ include '_top.php';
             <label for="state">Cruises</label><br>
             <form action="" method="get">
                 <select class="cruises" name="cruises">
-                    <option value="Alfo Nero">
-                        Alfa Nero
+                    <option value="Mexico">
+                        Mexico
                     </option>
-                    <option value="Savannah">
-                        Savannah
+                    <option value="Disney">
+                        Disney
                     </option>
-                    <option value="Seven Sins">
-                        Seven Sins
+                    <option value="Royal Caribbean">
+                        Royal Caribbean
                     </option>
-                    <option value="Solo">
-                        Solo
+                    <option value="Norwegian">
+                        Norwegian
                     </option>
                 </select>
             </form><br>

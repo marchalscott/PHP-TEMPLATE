@@ -7,6 +7,8 @@
 	<link href="img/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
 	<link href="img/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
 	<link href="img/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link href="/site.webmanifest" rel="manifest">
 	<meta content="width=device-width, initial-scale=1" name="viewport">
 	<link href="css/slick-theme.css" rel="stylesheet">
