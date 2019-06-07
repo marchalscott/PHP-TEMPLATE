@@ -1,6 +1,6 @@
 <?php
 $title = "Agent Joe Schmoe";
-include '_top.php';
+include '_agents_top_nav.php';
 ?>
 <!DOCTYPE html>
 <html>

@@ -176,19 +176,26 @@ input {
 
 #search {
   border: 1px solid #ccc;
-  padding: 11px 9px 3px 9px;
+  padding: 13px 9px 3px 9px;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   transition: all .5s ease; }
+
+#agentsSearch {
+  padding: 13px 9px 3px 9px; }
+
+.agentsSearch {
+  float: right;
+  padding: 0px 0px 14px 0px; }
 
 #search:focus {
   width: 300px; }
 
 .mySearch {
-  padding: 3px 5px 2px 3px;
-  margin-left: -5px;
+  padding: 3px 5px 4px 3px;
   background-color: #C8C8C8;
-  color: #484848; }
+  color: #484848;
+  float: right; }
 
 /* Removes text input glow */
 textarea, select, input, button {
@@ -204,14 +211,21 @@ textarea, select, input, button {
 
   input {
     padding: 9px;
-    border-radius: 10px; }
+    border-radius: 10px;
+    float: right; }
 
   .search {
     /*margin-bottom: 8px;*/
-    margin-right: 10%; }
+    margin-right: 10%;
+    float: right; }
+
+  .agentsSearch {
+    margin-bottom: 8px;
+    margin-right: 10%;
+    float: right; }
 
   #search {
-    padding: 10px 9px 7px 9px;
+    padding: 15px 9px 7px 9px;
     border: 1px solid #ccc;
     border-radius: unset;
     width: 13rem;
@@ -227,7 +241,8 @@ textarea, select, input, button {
     padding: 3px 5px 6px 3px;
     background-color: #C8C8C8;
     color: #484848;
-    margin-right: 10px; } }
+    margin-right: 10px;
+    float: right; } }
 @media screen and (max-width: 600px) {
   .search-container {
     display: none; }
@@ -828,6 +843,9 @@ footer {
         margin-left: 2%; }
     .agents .imgHeader img {
       float: left; }
+
+  .agentsSearch {
+    float: right; }
 
   .info {
     grid-template-columns: 1fr 1fr 1fr;

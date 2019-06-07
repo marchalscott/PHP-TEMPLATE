@@ -1,6 +1,6 @@
 <?php
 $title = "Agent Joe Schmoe";
-include '_top.php';
+include '_agents_top_nav.php';
 ?>
 
 <div class="agents" style="max-width: 1200px; margin: 0 auto;">

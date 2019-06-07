@@ -112,6 +112,10 @@
 		}
 	}
 }
+
+.agentsSearch {
+	float: right;
+}
 .info {
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-areas: "contact newsletter cruiseInfo";
