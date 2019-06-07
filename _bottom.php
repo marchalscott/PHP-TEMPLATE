@@ -70,6 +70,7 @@
 	             "addressRegion": "FL",
 	             "postalCode": "33410"
 	           },
+	           "image": "https://marchaleardley.com/DGM3740/02-PHP/img/logo.png",
 	           "priceRange": "$500 to $10000"
 	         }
 	</script>
